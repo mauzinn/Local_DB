@@ -2,7 +2,7 @@
     A basic local DataBase implementation using TXT's and a basic text formatting.
 
     The Current Model to store Data in the TXT is Like this:
-    ![Example of Storage File](assets/image.png)
+    ![Example of Storage File](/assets/image.png)
     Headers will always be on the first line.
     Like:
     Header1; Header1.1;
